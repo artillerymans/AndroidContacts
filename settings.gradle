@@ -1,0 +1,1 @@
+include ':app', ':com.android.vcard', ':com.android.common', ':com.android.phone.common', ':com.android.contacts.common'

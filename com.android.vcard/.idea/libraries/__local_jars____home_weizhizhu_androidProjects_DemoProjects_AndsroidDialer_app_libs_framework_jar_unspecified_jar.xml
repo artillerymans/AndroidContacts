@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:/home/weizhizhu/androidProjects/DemoProjects/AndsroidDialer/app/libs/framework.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../app/libs/framework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
